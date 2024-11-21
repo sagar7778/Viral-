@@ -35,6 +35,7 @@ import {
   youtube,
   linkedin,
   twitter,
+  whatsapp,
   github,
 } from "../assets";
 
@@ -370,7 +371,7 @@ export const SOCIALS = [
   {
     name: "Linkedin",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://www.linkedin.com/in/viral-koshti-3292b7185/",
   },
   {
     name: "Twitter",
@@ -378,8 +379,8 @@ export const SOCIALS = [
     link: "https://twitter.com/TechnicalShubam",
   },
   {
-    name: "GitHub",
-    icon: github,
-    link: "https://github.com/sanidhyy",
-  },
+    name: "WhatsApp",
+    icon: whatsapp,
+    link: "https://wa.me/91998012627",
+  }
 ] as const;
